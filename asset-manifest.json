@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/astro_tarot/static/css/main.c087e1b3.css",
-    "main.js": "/astro_tarot/static/js/main.ff7ebc05.js",
+    "main.js": "/astro_tarot/static/js/main.d1999534.js",
     "static/js/787.994511a4.chunk.js": "/astro_tarot/static/js/787.994511a4.chunk.js",
     "index.html": "/astro_tarot/index.html",
     "main.c087e1b3.css.map": "/astro_tarot/static/css/main.c087e1b3.css.map",
-    "main.ff7ebc05.js.map": "/astro_tarot/static/js/main.ff7ebc05.js.map",
+    "main.d1999534.js.map": "/astro_tarot/static/js/main.d1999534.js.map",
     "787.994511a4.chunk.js.map": "/astro_tarot/static/js/787.994511a4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c087e1b3.css",
-    "static/js/main.ff7ebc05.js"
+    "static/js/main.d1999534.js"
   ]
 }
